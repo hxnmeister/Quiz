@@ -1,0 +1,8 @@
+C:\Users\Chaklun\source\repos\Викторина\bin\Debug\Викторина.exe.config
+C:\Users\Chaklun\source\repos\Викторина\bin\Debug\Викторина.exe
+C:\Users\Chaklun\source\repos\Викторина\bin\Debug\Викторина.pdb
+C:\Users\Chaklun\source\repos\Викторина\obj\Debug\Викторина.csproj.AssemblyReference.cache
+C:\Users\Chaklun\source\repos\Викторина\obj\Debug\Викторина.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chaklun\source\repos\Викторина\obj\Debug\Викторина.csproj.CoreCompileInputs.cache
+C:\Users\Chaklun\source\repos\Викторина\obj\Debug\Викторина.exe
+C:\Users\Chaklun\source\repos\Викторина\obj\Debug\Викторина.pdb
